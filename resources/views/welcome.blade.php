@@ -11,6 +11,10 @@
 <body>
     
     <livewire:counter/>
+    <div>
+        <livewire:contact-us/>
+    </div>
+    <livewire:data-binding/>
 @livewireScripts
 </body>
 </html>
