@@ -11,10 +11,15 @@
 <body>
     
     <livewire:counter/>
+    <hr>
     <div>
         <livewire:contact-us/>
     </div>
     <livewire:data-binding/>
+    <hr>
+    <livewire:action-livewire/>
+    <hr>
+    <livewire:life-cycle-hooks/>
 @livewireScripts
 </body>
 </html>
